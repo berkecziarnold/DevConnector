@@ -1,0 +1,3 @@
+{
+  "mongoURI": "mongodb+srv://arni:arni@devconnector-pdz0o.mongodb.net/test?retryWrites=true&w=majority"
+}
